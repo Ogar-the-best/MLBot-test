@@ -8,3 +8,4 @@ MLBot has:
 **Music commands
 **Other fun commands
 
+Note: This bot is still under development, this is just the first version of the bot, yet to be hosted.
