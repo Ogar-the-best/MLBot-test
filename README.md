@@ -10,3 +10,6 @@ MLBot has:
 3. Other fun/misc. commands.
 
 Note: This bot is still under development, this is just the first version of the bot, yet to be hosted.
+
+## If you want to take the source codes for your discord bot:
+Make sure to make a .env file (install the dotenv package), and add in your client id, and other API's which you want to add, make sure to install all the packages too (check package.json if you want to see what packages I used), of course make sure to install discord.js (package) and discord.js-commando (package) as well. 
